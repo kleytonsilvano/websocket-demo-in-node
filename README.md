@@ -28,3 +28,7 @@ f) 313123 / 0
 
 Faça os tratamentos necessários em seu código para evitar problemas em tempo de execução
 Compartilhe seu projeto no fórum da disciplina
+
+Resultado:
+
+<img src='./demo/demo.png' />
