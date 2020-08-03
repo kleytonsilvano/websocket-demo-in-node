@@ -15,10 +15,15 @@ Sua conexão Websocket deverá ser capaz de receber mensagens de texto contendo 
 Envie as mensagens abaixo através da aplicação web criada no passo 2
 
 a) 1 + 1
+
 b) -123 + 123123
+
 c) 8 * 0
+
 d) 1239123 * 12313
+
 e) 123 / -12
+
 f) 313123 / 0
 
 Faça os tratamentos necessários em seu código para evitar problemas em tempo de execução
