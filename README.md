@@ -1,6 +1,5 @@
-# Atividade Prática 2 - Unidade 4
-
-UNIDADE 4 - Aplicações Web em Node.js Conexão HTTP e Websocket
+# Pós Graduação Puc Minas UNIDADE 4 - Aplicações Web em Node.js Conexão HTTP e Websocket
+ Atividade Prática 2 - Unidade 4
 
 O objetivo deste exercício é garantir que o aluno seja capaz de construir aplicações web em Node.js, utilizando tanto o protocolo HTTP quanto o protocolo de conexão persistente - Websocket.
 
